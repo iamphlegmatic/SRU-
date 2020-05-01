@@ -1,0 +1,11 @@
+﻿DATASET  LINK
+
+
+1. Download the RAVDEES dataset from the given link.
+                https://www.kaggle.com/uwrfkaggler/ravdess-emotional-speech-audio
+
+
+2. The dataset created by us can be downloaded from here:
+
+
+                https://drive.google.com/drive/folders/1Q2ni6WSL8FEksdOqccPMw1lsRjm3DHvm?usp=sharing
