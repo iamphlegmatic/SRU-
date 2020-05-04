@@ -9,3 +9,8 @@
 
 
                 https://drive.google.com/drive/folders/1Q2ni6WSL8FEksdOqccPMw1lsRjm3DHvm?usp=sharing
+                
+              
+3. Toronto Dataset can be downloaded from here :
+
+        https://www.kaggle.com/ejlok1/toronto-emotional-speech-set-tess
